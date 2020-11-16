@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\animations",
+    "\\Helpers",
+    "\\Instructions",
+    "\\Plugins",
+    "\\Scenarios",
+    "\\Sounds"
+  ],
+  "SelectedNode": "\\Plugins\\sysmon.py",
+  "PreviewInSolutionExplorer": false
+}
