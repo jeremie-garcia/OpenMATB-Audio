@@ -110,7 +110,7 @@ if __name__ == '__main__':
     visual.is_accelerating = False
 
     audio_visual = QAVButton("  Audio-Visual  ")
-    audio_visual.setSound(sound_file="../Sounds/alarms/bip2-master.wav")
+    audio_visual.setSound(sound_file="../Sounds/alarms/bip1-master.wav")
     audio_visual.mode = "toggle"
     audio_visual.set_color(QColor(Qt.darkYellow))
 
